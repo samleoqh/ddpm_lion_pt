@@ -35,7 +35,7 @@ Please check that scripts:
 
 After 5 days (140k images):
 
-<img src="./assets/bs_1024_epoch_91.png">
+<img src="./assets/demo.png">
 
 It's trained with this strategy:
 
